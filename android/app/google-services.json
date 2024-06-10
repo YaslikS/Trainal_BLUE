@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174695921339",
+    "project_id": "trainalapp",
+    "storage_bucket": "trainalapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174695921339:android:ca8ffbbba8edb912a11b9e",
+        "android_client_info": {
+          "package_name": "com.yasliks.trainal_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1yS4MDAp0T5u02FZcBbLRlAHu5bu43NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174695921339:android:377ec8d782104e2ea11b9e",
+        "android_client_info": {
+          "package_name": "com.yasliks.trainal_blue_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1yS4MDAp0T5u02FZcBbLRlAHu5bu43NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
