@@ -1,7 +1,10 @@
 ## Trainal_BLUE
+TrainalBLUE - это приложение, которое позволяет тренеру следить за персональной статистикой спортсменов. Тренер закрепляет за собой спортсмена, после чего может просматривать данные о его тренировках, упражнениях и показателях. TODO: little description
 
-// TODO: little description
+TrainalBLUE is an application that allows a coach to keep track of personal statistics of athletes. The coach secures the athlete, after which he can view data on his workouts, exercises and indicators.
 
+## Используется - Using
+Bloc; dio; freezed; json_serializable; auto_route; hive; firebase_auth; cloud_firestore; fl_chart.
 
 ## Features
 
